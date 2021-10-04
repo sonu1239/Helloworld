@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace Helloworld72
 {
-    class Program
+    class pc1
     {
-        static void Main(string[] args)
+        public static void emplimen()
         {
-            Console.WriteLine("Hello world");
-            Console.WriteLine("new");
-            Console.WriteLine("new line");
+            Console.WriteLine("add new class pc1");
             Console.ReadLine();
+        
+        
+        
+        
+        
         }
     }
 }
