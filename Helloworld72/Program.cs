@@ -11,8 +11,13 @@ namespace Helloworld72
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+<<<<<<< HEAD
             Console.WriteLine("new");
             Console.WriteLine("new line");
+=======
+            Console.WriteLine("branch");
+           
+>>>>>>> main
             Console.ReadLine();
         }
     }
